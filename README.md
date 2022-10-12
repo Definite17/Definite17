@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*-u0b7K0Q6zfBcQqT.gif)](https://definite17.io)
-
+![logo](https://github.com/Definite17/Definite17/blob/main/Github_Banner.gif)
 <h1 align="center">Hi 👋, I'm Ashraf Nawaz</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
