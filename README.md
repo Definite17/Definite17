@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definite17&label=Profile%20views&color=0e75b6&style=flat" alt="definite17" /> </p>
 
+- 👨🏽‍💻 I’m currently working as a Software Engineer at **Byju's**
+
 - 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Java, Python**
