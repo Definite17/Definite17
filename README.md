@@ -7,7 +7,7 @@
 
 - 👨🏽‍💻 I’m currently working as a Software Engineer at **Byju's**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning and working on **SpringBoot**
 
 - 💬 Ask me about **Java, Python**
 
