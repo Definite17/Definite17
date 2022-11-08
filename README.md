@@ -1,6 +1,7 @@
 ![logo](https://github.com/Definite17/Definite17/blob/main/Github_Banner.gif)
-<h1 align="center">Hi 👋, I'm Ashraf Nawaz</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+
+<h1 align="center">Hey <img src="https://github.com/Definite17/Definite17/blob/main/Hi.gif" width="29"> I'm Ashraf ! </h1>
+<h3 align="left">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definite17&label=Profile%20views&color=0e75b6&style=flat" alt="definite17" /> </p>
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **ashrafnawaz17@gmail.com**
+- 📫 How to reach me -> **ashrafnawaz17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
