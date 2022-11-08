@@ -1,6 +1,6 @@
-![logo](https://github.com/Definite17/Definite17/blob/main/Github_Banner.gif)
+![logo](https://github.com/Definite17/Definite17/blob/main/Assets/Github_Banner.gif)
 
-<h1 align="center">Hi <img src="https://github.com/Definite17/Definite17/blob/main/Hi.gif" width="29">, I'm Ashraf ! </h1>
+<h1 align="center">Hi <img src="https://github.com/Definite17/Definite17/blob/main/Assets/Hi.gif" width="29">, I'm Ashraf ! </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
