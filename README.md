@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning and working on **SpringBoot**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, SpringBoot**
 
 - 📫 How to reach me -> **ashrafnawaz17@gmail.com**
 
